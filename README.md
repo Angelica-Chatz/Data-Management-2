@@ -5,8 +5,8 @@
 - MySQL Server 5.7
 - MySQL Cluster
 
-#Tasks:
-( Data containing info on several subjects )
+#Tasks (data containing info on several subjects):
+
 - Create tables saved in the data nodes of MySQL cluster
 - Write SQL queries to try time efficiency techniques such as:
   Join Pushdown, all data needed in the same node/ different nodes.
